@@ -38,4 +38,4 @@ This project is licensed under the [MIT License](LICENSE).
 Feel free to contribute and improve the functionality of the program by submitting pull requests!
 
 ## Author
-Ivan K - [Your GitHub Profile](https://github.com/ivan-karaivanov)
+Ivan K - [GitHub Profile](https://github.com/ivan-karaivanov)
